@@ -2,5 +2,5 @@ include <stdio.h>
 
 void main(void)
 {
-	printf("Hllo World!\r\n");
+	printf("Hllo World!\r\n"); //hello
 }
